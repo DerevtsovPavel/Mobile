@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'States.dart';
-import 'Cubit.dart';
+import 'cubit/States.dart';
+import 'cubit/Cubit.dart';
 
 class MyScreen extends StatefulWidget{
   @override
