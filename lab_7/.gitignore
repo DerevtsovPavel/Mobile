@@ -43,6 +43,7 @@ migrate_working_dir/
 .pub-cache/
 .pub/
 /build/
+/lib/api/Новый текстовый документ.txt
 
 # Symbolication related
 app.*.symbols
